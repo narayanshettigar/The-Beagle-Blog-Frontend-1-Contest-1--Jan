@@ -1,0 +1,50 @@
+
+ol{
+    padding-left: 28px;
+    line-height: 42.41px;
+}
+
+body{
+    padding: 25px;
+    
+    font-family: "Inter", sans-serif;
+    font-size:25.8px;
+    font-weight: 400;
+  
+  
+  line-height: 33px;
+  letter-spacing: 0em;
+  
+}
+.one{
+    border: 2px solid black;
+    padding: 30px;
+    padding-top: 0px;
+    width: 1420px;
+    height: 330px;
+}
+.blog{
+    width: 1415px;
+    height: 545px;
+}
+.dog{
+    width: 851px;
+    height: 562px;
+    
+    
+    }
+h1{
+    text-underline-offset: 8px;
+}
+a{
+    color: black;
+    text-underline-offset: 5.8px;
+}
+.moreImages{
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+.moveRight{
+   
+    margin-left: 18px;
+}
